@@ -149,6 +149,7 @@ export default {
         // console.log(util.inspect(config.module.rules, { depth: 6 }))
       }
     }
-  }
+  },
+  router: { base: '/' }
 };
 
