@@ -8,18 +8,19 @@
     "projects": "Projects"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Parth",
+    "lastName": "Chauhan",
     "subHeadingText": [
-      "Software Enginneer",
-      "Full Stack Developer",
-      "Code enthusiast!"
+      "Software Engineer!",
+      "Full Stack Developer!",
+      "Code enthusiast!",
+      "Web Developer!"
     ],
-    "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
+    "city": "Ottawa, Canada",
+    "phoneNumber": "+1 (613) 501-2020",
+    "email": "parthchauhan05@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/parthchauhan05/",
+    "github": "https://github.com/parthchauhan05/",
     "myDescription": "Passionate web developer, making useful application using the latest technologies!"
   },
   "educationDegrees": {

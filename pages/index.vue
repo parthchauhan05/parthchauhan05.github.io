@@ -75,11 +75,11 @@
               >{{ $t('links.projects') }}</a
             >
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <div style="position:fixed; bottom:10px; left:10px; z-index:1000;">
               <DarkModeBtn />
             </div>
-          </li>
+          </li> -->
         </ul>
       </div>
     </nav>
@@ -92,17 +92,17 @@
 
 <script>
 import Resume from "@/components/Resume";
-import DarkModeBtn from "@/components/DarkModeBtn";
+// import DarkModeBtn from "@/components/DarkModeBtn";
 import jump from "jump.js";
 
 export default {
   components: {
     Resume,
-    DarkModeBtn
+    // DarkModeBtn
   },
   head() {
     return {
-      title: "Iván Greve"
+      title: "Parth Chauhan"
     };
   },
   methods: {

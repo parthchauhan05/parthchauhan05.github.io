@@ -22,7 +22,8 @@
     </h3>
 
     <div class="subheading mb-5">
-      {{ $t('personalInfo.city') }} · {{ $t('personalInfo.phoneNumber') }} ·
+      {{ $t('personalInfo.city') }} ·
+      <a href="tel:+16135012020">{{ $t('personalInfo.phoneNumber') }}</a> ·
       <a href="mailto:name@email.com">{{ $t('personalInfo.email') }}</a>
     </div>
     <p class="mb-5">
