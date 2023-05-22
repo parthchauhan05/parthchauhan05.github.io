@@ -9,7 +9,7 @@
         <span class="d-none d-lg-block">
           <img
             class="img-fluid img-profile rounded-circle mx-auto mb-2"
-            src="/profile.jpg"
+            src="/profile.JPG"
             alt=""
           />
         </span>
