@@ -27,22 +27,24 @@
     "title": "Education 📕",
     "degrees": [
       {
-        "collage": "University of La Matanza",
-        "name": "Engineer Degree",
+        "collage": "Algonquin College",
+        "name": "Diploma in Interactive Media Design",
         "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2018"
+        "startEndDate": "August, 2020",
+        "descriptions": [
+          "Selected Coursework: Web Programming (HTML, CSS, JavaScript, PHP, Vue.js, SQL), Camera Skills (Portrait Photography, Video Recording), Graphical Skills (Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe XD, Adobe Audition)"
+        ]
       },
       {
-        "collage": "University of La Matanza",
-        "name": "Software Engineering Technician",
+        "collage": "Dhirubhai Ambani Institute of Information and Communication Technology",
+        "name": "B.Tech. in Information and Communication Technology",
         "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2016"
-      },
-      {
-        "collage": "Instituto Madero",
-        "name": "Electronic technician",
-        "itemList": ["Electronic"],
-        "startEndDate": "March 2007 - December 2012"
+        "startEndDate": " Class of 2018",
+        "descriptions": [
+          " Coordinator of iDecipher, iFest-2015 and iFest-2016, IEEE Technical Festival",
+          "Core Member of Hostel Management Committee (2015-16) and Active Member of Anti-raging Committee (2017-18)",
+          "Coursework: Programming and Software Development(C, JAVA, Python); Computer Networking; Theoretical Computations; DBMS;Software Engineering(Agile and Waterflow methods), SEO"
+        ]
       }
     ]
   },
@@ -50,27 +52,49 @@
     "title": "Work Expecience 🔨",
     "works": [
       {
-        "position": "Software Engineer / FullStack Developer",
-        "companie": "Axum - Smart Solutions",
+        "position": "Associate Software Engineer",
+        "companie": "Sryas Inc.",
         "responsabilities": [
-          "Responsible for designing, developing and maintaining a group of applications used in the retail industry by multinational companies as Pepsico, Unilever, Quilmes, etc.",
-          "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
-          "Backend Developer: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Frontend Developer: VueJs | ReactJs | Javascript | JQuery.",
-          "Desktop Applications: .NET Windows Form Applications."
+          "Creating new billing software for one of the oldest telecom company in North America.",
+          "As part of frontend dev team, I am working on creating reusable Vue components, adding dynamic data to them and using them in multiple places in the application.",
+          "Making sure design of the webapp replicate modern design standards and provide excellent user experience"
         ],
-        "startEndDate": "November 2017 - Present"
+        "startEndDate": "October 2021 to current"
       },
       {
-        "position": "Technical Administrator",
-        "companie": "Metalurgica Vezeta",
+        "position": "Web Developer, DMS",
+        "companie": "Invest Ottawa",
         "responsabilities": [
-          "Responsible for web ecommerce designing and maintaining.",
-          "Graphic design (Adobe Photoshop and Adobe Illustrator).",
-          "Technical support.",
-          "Improve business processes."
+          "As COVID-19 was on peak and main street business were shutting down, we were helping them to go online and build a digital business to thrive.",
+          "I was supporting businesses by creating and managing online stores, websites, and creating online courses."
         ],
-        "startEndDate": "March 2014 - October 2017"
+        "startEndDate": "May 2021 to July 2021"
+      },
+      {
+        "position": "Python Developer and Back-end Engineer",
+        "companie": "WiseL",
+        "responsabilities": [
+          "Created a platform for schools, specifically for teachers, who has a lot of burden rather than just teaching.",
+          "It provided functionality from marking attendance to sending grades to parents."
+        ],
+        "startEndDate": "2016 to 2018"
+      },
+      {
+        "position": "Software Development Intern",
+        "companie": "Punchit.io",
+        "responsabilities": [
+          "Reformed their APIs and helped to migrate from python 2 to python 3.",
+          "I have always been a person of contact for them whenever their server was malfunctioning."
+        ],
+        "startEndDate": "May, 2017"
+      },
+      {
+        "position": "Software Development Intern",
+        "companie": "Poshaq @ Thingsxthings",
+        "responsabilities": [
+          "Worked on a part of algorithm that is going to suggest best combination of clothes from their inventory."
+        ],
+        "startEndDate": "May, 2016"
       }
     ]
   },

@@ -10,7 +10,13 @@
       <div class="resume-content mr-auto">
         <h3 class="mb-0">{{ degree.collage }}</h3>
         <div class="subheading mb-3">{{ degree.name }}</div>
-        <div v-for="item in degree.itemList" :key="item">{{ item }}</div>
+        <div class="mb-3" v-for="item in degree.itemList" :key="item">{{ item }}</div>
+        <p
+          v-for="description in degree.descriptions"
+          :key="description"
+        >
+          - {{ description }}
+        </p>
       </div>
       <div class="resume-date text-md-right">
         <span class="text-primary">{{ degree.startEndDate }}</span>
